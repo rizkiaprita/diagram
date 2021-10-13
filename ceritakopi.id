@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T13:42:03.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.2" etag="nlwl8dX-yjvhiDW21Y2H" type="github"><diagram id="ji-cAPyLTpSVvM5MrCxx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-13T14:19:32.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7lp4Ch_1UVKgsPYiirgi" version="15.5.2" type="github">
+  <diagram id="ji-cAPyLTpSVvM5MrCxx" name="Page-1">
+    <mxGraphModel dx="599" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-4" value="Profil komunitas" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-5" value="Product Listing" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;" edge="1" parent="1" source="IJ0ynQ23qvQ2-KZOt9np-15" target="IJ0ynQ23qvQ2-KZOt9np-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;" edge="1" parent="1" source="IJ0ynQ23qvQ2-KZOt9np-15" target="IJ0ynQ23qvQ2-KZOt9np-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-18" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Nama Produk &lt;/b&gt;dengan format yang konsisten&lt;br&gt;&lt;i&gt;contoh: Brand - Model/Type - Attribute = Kopibara Robusta Coffee 50gr&lt;br&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Foto produk &lt;/b&gt;dengan ukuran yang seragam&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Logo brand&lt;/b&gt; dengan ukuran yang seragam&lt;/li&gt;&lt;li&gt;&lt;b&gt;Harga produk&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kategori produk&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tag atau fitur produk&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deskripsi singkat&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deskripsi lengkap / Spesifikasi &lt;/b&gt;&lt;i&gt;dengan pendukung gambar produk yang lain dari foto produk apabila ada&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tombol beli / CTA&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0ynQ23qvQ2-KZOt9np-21" value="place to copy&lt;br&gt;sca.coffee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
