@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T14:39:12.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="v9T8WFD0RQ1EaVQYHTYL" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T14:40:45.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="DJSSIDX_F5n49fqicESq" version="15.5.4" type="github">
   <diagram id="UpQXV0bkHhJ45pT5pMi0" name="Page-1">
-    <mxGraphModel dx="2200" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="2672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,26 +110,26 @@
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-53" value="DAFTAR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="80" as="targetPoint" />
+            <mxPoint x="970" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="80" />
-              <mxPoint x="350" y="80" />
+              <mxPoint x="750" y="100" />
+              <mxPoint x="750" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-46" value="konten&lt;br&gt;- kualitas (?)&lt;br&gt;- format&lt;br&gt;-&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="230" height="340" as="geometry" />
+          <mxGeometry x="460" y="80" width="230" height="340" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-70" value="&lt;b&gt;Crawl&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.824;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fontColor=#000000;strokeWidth=3;spacing=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-74" target="VMYl_dWGH_x-drsQ9dHv-46">
           <mxGeometry x="-0.158" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="340" />
+              <mxPoint x="1010" y="360" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-48" value="SERP" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="60" width="140" height="150" as="geometry">
+          <mxGeometry x="1410" y="80" width="140" height="150" as="geometry">
             <mxRectangle x="430" y="230" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -146,7 +146,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-54" value="CARA DAFTAR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="170" height="90" as="geometry" />
+          <mxGeometry x="720" y="140" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-55" value="Sitemap" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;fontColor=#000000;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-54">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -156,24 +156,24 @@
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-59" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="250" as="sourcePoint" />
-            <mxPoint x="410" y="90" as="targetPoint" />
+            <mxPoint x="850" y="270" as="sourcePoint" />
+            <mxPoint x="810" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-61" value="Situs dengan authority &amp; niche yang sama" style="swimlane;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="460" width="390" height="260" as="geometry" />
+          <mxGeometry x="490" y="480" width="390" height="260" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-60" value="konten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-61">
           <mxGeometry x="110" y="60" width="140" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-63" value="backlink" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#000000;strokeWidth=1;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-60">
           <mxGeometry x="0.7551" relative="1" as="geometry">
-            <mxPoint x="180" y="410" as="targetPoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-64" value="di daftarkan berdasarkan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-70" width="235" height="90" as="geometry" />
+          <mxGeometry x="630" y="-50" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-65" value="keyword" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;fontColor=#000000;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-64">
           <mxGeometry y="30" width="235" height="30" as="geometry" />
@@ -183,30 +183,30 @@
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-68" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;entryX=0.476;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VMYl_dWGH_x-drsQ9dHv-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="70" as="sourcePoint" />
-            <mxPoint x="405" y="30" as="targetPoint" />
+            <mxPoint x="810" y="90" as="sourcePoint" />
+            <mxPoint x="805" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-69" value="https://www.google.com/search/howsearchworks/crawling-indexing/" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-100" width="550" height="30" as="geometry" />
+          <mxGeometry x="630" y="-80" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-71" value="Kecepatan crawl ditentukan oleh&lt;br&gt;&lt;ul&gt;&lt;li&gt;kecepatan respon situs/server (req/s)&lt;/li&gt;&lt;li&gt;crawl budget/limit&lt;/li&gt;&lt;li&gt;popularitas di internet (ex: sosial media)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="350" width="390" height="120" as="geometry" />
+          <mxGeometry x="990" y="370" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-73" value="sortir berdasarkan signal dan factor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#000000;strokeWidth=3;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=-0.014;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-74" target="VMYl_dWGH_x-drsQ9dHv-48">
           <mxGeometry x="-0.1058" y="3" relative="1" as="geometry">
-            <mxPoint x="950" y="10" as="targetPoint" />
-            <mxPoint x="740" y="80" as="sourcePoint" />
+            <mxPoint x="1350" y="30" as="targetPoint" />
+            <mxPoint x="1140" y="100" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="640" y="80" />
-              <mxPoint x="980" y="80" />
-              <mxPoint x="980" y="74" />
+              <mxPoint x="1040" y="100" />
+              <mxPoint x="1380" y="100" />
+              <mxPoint x="1380" y="94" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-74" value="index" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="30" width="60" height="80" as="geometry" />
+          <mxGeometry x="980" y="50" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
