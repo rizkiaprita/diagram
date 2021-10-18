@@ -1,59 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T09:12:11.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="o-so7l59J9aeDEnR1POR" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T13:43:16.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="MwS_-IYpnHe6Lmck8cr9" version="15.5.4" type="github">
   <diagram id="UpQXV0bkHhJ45pT5pMi0" name="Page-1">
-    <mxGraphModel dx="1240" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-1" value="POINT WEBSITE" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="650" y="180" width="440" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-3" value="Point Apps" style="swimlane;fillColor=#33FF33;" vertex="1" parent="oBr3ydIlAz2J9fcUPosE-1">
-          <mxGeometry x="40" y="40" width="400" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-6" value="ERP" style="shape=card;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="oBr3ydIlAz2J9fcUPosE-3">
-          <mxGeometry x="30" y="50" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-7" value="PointHR" style="shape=card;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#17FF0F;strokeColor=none;fontStyle=1" vertex="1" parent="oBr3ydIlAz2J9fcUPosE-3">
-          <mxGeometry x="125" y="50" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-8" value="&lt;h1&gt;Fokus kemana&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-14" value="&lt;b&gt;VDW &lt;/b&gt;= vendor dengan website&lt;br&gt;&lt;b&gt;N&lt;/b&gt; = Jumlah vendor" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="910" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-22" value="&lt;b&gt;VDW&lt;/b&gt; * &lt;b&gt;N&lt;/b&gt; = Unique high quallity backlick" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="760" y="870" width="440" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="oBr3ydIlAz2J9fcUPosE-23" target="oBr3ydIlAz2J9fcUPosE-11">
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Backlink&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-3" target="VMYl_dWGH_x-drsQ9dHv-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="837" y="790" as="targetPoint" />
+            <mxPoint x="1029" y="-460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="480" />
-              <mxPoint x="200" y="790" />
+              <mxPoint x="420" y="-390" />
+              <mxPoint x="1200" y="-390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-23" value="Vendor&#xa;dengan&#xa;Website" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fontSize=24;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;fontStyle=1;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="30" height="60" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-3" value="PointHR.net" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-740" width="220" height="210" as="geometry">
+            <mxRectangle x="60" y="230" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-32" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fontSize=24;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;fontStyle=1;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="90" y="440" width="30" height="60" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-5" value="/Blog" style="swimlane;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-3">
+          <mxGeometry x="30" y="60" width="160" height="115" as="geometry">
+            <mxRectangle x="30" y="60" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-38" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fontSize=24;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;fontStyle=1;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="127" y="440" width="30" height="60" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-35" value="konten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-5">
+          <mxGeometry x="50" y="32.5" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-41" value="1. Kualitas backlink tinggi karena niche sama&lt;br&gt;2.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="530" width="250" height="30" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-21" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Impression terhadap keyword yang di target&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;strokeWidth=3;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-13" target="VMYl_dWGH_x-drsQ9dHv-35">
+          <mxGeometry x="-0.0944" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-780" />
+              <mxPoint x="360" y="-780" />
+              <mxPoint x="360" y="-607" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-42" value="Link dari vendor =&lt;br&gt;High quallity unique backlink" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="430" width="350" height="30" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-38" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Impression terhadap keyword yang di target&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-13" target="VMYl_dWGH_x-drsQ9dHv-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-780" />
+              <mxPoint x="1200" y="-780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-10" value="Connect Website" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="670" y="690" width="400" height="200" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-13" value="SERP" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-740" width="140" height="150" as="geometry">
+            <mxRectangle x="430" y="230" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBr3ydIlAz2J9fcUPosE-11" value="Halaman" style="shape=card;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="oBr3ydIlAz2J9fcUPosE-10">
-          <mxGeometry x="170" y="50" width="80" height="100" as="geometry" />
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-14" value="Google" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-15" value="Pinterest" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-17" value="Bing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-18" value="Yahoo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-20" value="&lt;b&gt;Konten&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;exitX=0;exitY=0;exitDx=60;exitDy=55;exitPerimeter=0;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-35" target="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry x="0.2424" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="-592" />
+              <mxPoint x="590" y="-724" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-36" value="&lt;b style=&quot;font-size: 24px&quot;&gt;Konten&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.089;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;entryPerimeter=0;" edge="1" parent="1" source="VMYl_dWGH_x-drsQ9dHv-27" target="VMYl_dWGH_x-drsQ9dHv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-27" value="POINT" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-740" width="220" height="280" as="geometry">
+            <mxRectangle x="650" y="230" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-29" value="Apps" style="swimlane;startSize=23;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-27">
+          <mxGeometry x="10" y="30" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-30" value="PointHR" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-29">
+          <mxGeometry x="60" y="60" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-33" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;lato, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;backlinks&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; to your website &lt;/font&gt;&lt;b&gt;are&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; a &lt;/font&gt;&lt;b&gt;signal to search engines&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; that others vouch for your content. If many sites link to the same webpage or website, search engines can infer that content is worth linking to, and therefore also &lt;/font&gt;&lt;b&gt;worth surfacing on a SERP&lt;/b&gt;&lt;b style=&quot;color: rgb(77 , 77 , 77)&quot;&gt;.&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;lato, helvetica neue, helvetica, arial, sans-serif&quot; style=&quot;color: rgb(77 , 77 , 77)&quot;&gt;https://moz.com/learn/seo/backlinks&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-380" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-34" value="https://www.elischwartz.co/ranking-factor-vs-ranking-signals-for-search/" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-280" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-39" value="Ceritakopi.id" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-1030" width="180" height="170" as="geometry">
+            <mxRectangle x="330" y="-1030" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-40" value="/Blog" style="swimlane;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-39">
+          <mxGeometry x="10" y="30" width="160" height="130" as="geometry">
+            <mxRectangle x="30" y="60" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-41" value="konten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="VMYl_dWGH_x-drsQ9dHv-40">
+          <mxGeometry x="50" y="32.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-42" value="BBF" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1030" width="140" height="170" as="geometry">
+            <mxRectangle x="520" y="-1030" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMYl_dWGH_x-drsQ9dHv-46" value="konten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
