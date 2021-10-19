@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T05:28:43.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="R9k1_E7JCd7STNWQT5aJ" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T09:16:12.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iriPX8aDUKkDbK7KyhO_" version="15.5.5" type="github">
   <diagram id="UpQXV0bkHhJ45pT5pMi0" name="Page-1">
-    <mxGraphModel dx="1847" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
           <mxGeometry x="560" y="-310" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-39" value="Ceritakopi.id" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-1030" width="180" height="170" as="geometry">
+          <mxGeometry x="320" y="-980" width="180" height="170" as="geometry">
             <mxRectangle x="330" y="-1030" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -104,7 +104,7 @@
           <mxGeometry x="50" y="32.5" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VMYl_dWGH_x-drsQ9dHv-42" value="BBF" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-1030" width="140" height="170" as="geometry">
+          <mxGeometry x="530" y="-990" width="140" height="170" as="geometry">
             <mxRectangle x="520" y="-1030" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
